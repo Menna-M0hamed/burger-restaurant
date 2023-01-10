@@ -19,6 +19,10 @@ export const ProductCard = styled.div`
   margin: 3rem 1rem;
   line-height: 2;
   width: 300px;
+
+  @media screen and (min-width: 1300px){
+    width: 350px;
+ }
 `;
 
 export const ProductImg = styled.img`
