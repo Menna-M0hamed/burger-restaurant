@@ -43,6 +43,10 @@ letter-spacing: 3px;
 width: 45%;
 
 @media screen and (max-width: 1024px){
+    width: 50%;
+ }
+
+@media screen and (max-width: 925px){
     width: 60%;
  }
 
