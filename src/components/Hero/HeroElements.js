@@ -42,6 +42,10 @@ box-shadow: 3px 5px #ef9933;
 letter-spacing: 3px;
 width: 45%;
 
+@media screen and (max-width: 1024px){
+    width: 60%;
+ }
+
 @media screen and (max-width: 770px){
     width: 65%;
  } 
